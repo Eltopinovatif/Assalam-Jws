@@ -23,14 +23,23 @@ Lisensi :
 	
 VIDIO DEMO:
 PANEL P5 1X2  DAN P10 2X2 PANEL : https://www.youtube.com/watch?v=EP0S3HSJg_g
+
 PANEL P5 1X3  DAN P10 2X6 PANEL : https://youtu.be/rUy3U-a7_c0
+
 PANEL P5 1X4  DAN P10 2X8 PANEL : https://youtu.be/tkGmGqzndbc
+
 PANEL P5 1X5  DAN P10 2X10 PANEL: https://youtu.be/RlUBTRj0eWs
+
 PANEL P5 1X6  DAN P10 2X12 PANEL: https://youtu.be/Je7d8TuHj_U
+
 PANEL P5 2X2  DAN P10 4X4 PANEL : https://youtu.be/UFHOQOJ8Liw  atau  https://youtu.be/kHxpWMunJnw
+
 PANEL P5 2X3  DAN P10 4X6 PANEL : https://youtu.be/H4AjmRhn85M
+
 PANEL P5 2X4  DAN P10 4X8 PANEL : https://youtu.be/ZNsiRJOuX3Q
+
 PANEL P5 2X5  DAN P10 4X10 PANEL: https://youtu.be/urQ3nk5Qe7U
+
 PANEL P5 2X6  DAN P10 4X12 PANEL: https://youtu.be/XPoxF4239_k
 
 PERTANYAAN UMUM
