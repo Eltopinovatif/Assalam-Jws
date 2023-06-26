@@ -38,3 +38,4 @@ ESP8266 ASSALAAM-JWS FIRMWARE
 
 6. Lisensi :
 	- contac : 089401338686
+7. link pembelian PCB : https://www.tokopedia.com/archive-bimotech-1651126636/pcb-jws-rgb-esp12-pcb-jam-masjid-rgb
