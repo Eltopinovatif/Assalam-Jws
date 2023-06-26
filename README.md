@@ -11,9 +11,10 @@ firmware suport PCB esp8266-RGB PCB LUTHFAN : https://github.com/Eltopinovatif/A
 
 firmware suport PCB esp8266-Autotarti MANDIRI : https://github.com/Eltopinovatif/Assalam-Jws/tree/main/Firmware%20Assalaam%20Auto-Tartil
 
-APP link Playstore : https://play.google.com/store/apps/detailsid=io.kodular.herrysantoso2012.As_salaamJws
+APP link Playstore : https://play.google.com/store/apps/details?id=io.kodular.herrysantoso2012.As_salaamJws
 
     * Soft Password = "9999"
+    * ResetSoft Password = "99999999"
 		* WiFi Password Default = "12345678"
     
 Main suport web : https://assalaamjws.blogspot.com
