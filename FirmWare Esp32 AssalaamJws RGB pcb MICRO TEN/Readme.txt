@@ -40,3 +40,4 @@ ESP32 ASSALAAM-JWS FIRMWARE
 
 6. Lisensi :
 	- contac : 089401338686
+7. link pembelian PCB : https://www.tokopedia.com/micro-ten/pcb-jws-rgb-esp32-4hub?extParam=whid%3D5949468
